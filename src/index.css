@@ -1,0 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  background-image: url("../public/pictures/backgroud.jpeg");
+  object-fit: cover;
+  padding: 30px;
+}
